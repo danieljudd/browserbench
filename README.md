@@ -2,7 +2,7 @@
 
 Benchmarks for various browsers:
 
-#https://web.basemark.com (13/02/20)
+# https://web.basemark.com (13/02/20)
 
 1) desktop using Windows 10.0 with Firefox 73.0 score: (with privacy addons)
 745.5
@@ -61,14 +61,14 @@ Page Load and Responsiveness Capabilities
 Resize Capabilities
 75.86%
 
-#https://html5test.com/
+# https://html5test.com/
 waterfox: 501 out of 555 points
 brave: 531 OUT OF 555 POINTS
 ungoogled chrome: 535 OUT OF 555 POINTS
 firefox: 513 out of 555 points
 firefox private tab: 499 out of 555 points
 
-#http://www.speed-battle.com/speedtest_e.php
+# http://www.speed-battle.com/speedtest_e.php
 
 overall scores:
 

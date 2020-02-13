@@ -4,7 +4,8 @@ Benchmarks for various browsers:
 
 https://web.basemark.com (13/02/20)
 [
-desktop using Windows 10.0 with Firefox 73.0 score: (with privacy addons)
+
+1) desktop using Windows 10.0 with Firefox 73.0 score: (with privacy addons)
 745.5
 
 Conformance
@@ -18,7 +19,7 @@ Page Load and Responsiveness Capabilities
 Resize Capabilities
 75.86%
 
-desktop using Windows 10.0 with Chrome 79.0.3945.130 score: (ungoogled chromium from https://chocolatey.org/packages/ungoogled-chromium)
+2) desktop using Windows 10.0 with Chrome 79.0.3945.130 score: (ungoogled chromium from https://chocolatey.org/packages/ungoogled-chromium)
 
 1174.43
 
@@ -28,13 +29,13 @@ HTML5 Capabilities96.58%
 Page Load and Responsiveness Capabilities98.43%
 Resize Capabilities75.97%
 
-desktop using Windows 10.0 with Chrome 80.0.3987.87 (brave) score:1011.4 
+3) desktop using Windows 10.0 with Chrome 80.0.3987.87 (brave) score:1011.4 
 CSS Capabilities57.75%
 HTML5 Capabilities95.5%
 Page Load and Responsiveness Capabilities96.23%
 Resize Capabilities75.97%
 
-desktop using Windows 10.0 with Firefox 68.0 score: (waterfox)
+4) desktop using Windows 10.0 with Firefox 68.0 score: (waterfox)
 648.74
 
 Conformance

@@ -1,6 +1,7 @@
 # browserbench
 
-Benchmarks for various browsers:
+Benchmarks for browsers that are minimal/privacy focused.
+All tests within RAM range, and no throttling of CPU, same PC.
 
 ## https://web.basemark.com (13/02/20)
 
@@ -77,5 +78,12 @@ overall scores:
 - brave: 1501.29
 - waterfox: 1913.86
 
+## https://browserbench.org/JetStream/
 
+overall scores:
+
+- firefox: 74.941
+- brave: 106.540
+- waterfox: 80.317
+- ungoogled chrome: 115.579
 

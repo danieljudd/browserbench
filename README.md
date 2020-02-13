@@ -2,9 +2,9 @@
 
 Benchmarks for various browsers:
 
-# https://web.basemark.com (13/02/20)
+## https://web.basemark.com (13/02/20)
 
-1) desktop using Windows 10.0 with Firefox 73.0 score: (with privacy addons)
+1. desktop using Windows 10.0 with Firefox 73.0 score: (with privacy addons)
 745.5
 
 Conformance
@@ -21,7 +21,7 @@ Resize Capabilities
 75.86%
 
 
-2) desktop using Windows 10.0 with Chrome 79.0.3945.130 score: (ungoogled chromium from https://chocolatey.org/packages/ungoogled-chromium)
+2. desktop using Windows 10.0 with Chrome 79.0.3945.130 score: (ungoogled chromium from https://chocolatey.org/packages/ungoogled-chromium)
 
 1174.43
 
@@ -35,7 +35,7 @@ Page Load and Responsiveness Capabilities98.43%
 Resize Capabilities75.97%
 
 
-3) desktop using Windows 10.0 with Chrome 80.0.3987.87 (brave) score:1011.4 
+3. desktop using Windows 10.0 with Chrome 80.0.3987.87 (brave) score:1011.4 
 
 CSS Capabilities57.75%
 
@@ -45,7 +45,7 @@ Page Load and Responsiveness Capabilities96.23%
 
 Resize Capabilities75.97%
 
-4) desktop using Windows 10.0 with Firefox 68.0 score: (waterfox)
+4. desktop using Windows 10.0 with Firefox 68.0 score: (waterfox)
 648.74
 
 Conformance
@@ -61,21 +61,21 @@ Page Load and Responsiveness Capabilities
 Resize Capabilities
 75.86%
 
-# https://html5test.com/
-waterfox: 501 out of 555 points
-brave: 531 OUT OF 555 POINTS
-ungoogled chrome: 535 OUT OF 555 POINTS
-firefox: 513 out of 555 points
-firefox private tab: 499 out of 555 points
+## https://html5test.com/
+- waterfox: 501 out of 555 points
+- brave: 531 OUT OF 555 POINTS
+- ungoogled chrome: 535 OUT OF 555 POINTS
+- firefox: 513 out of 555 points
+- firefox private tab: 499 out of 555 points
 
-# http://www.speed-battle.com/speedtest_e.php
+## http://www.speed-battle.com/speedtest_e.php
 
 overall scores:
 
-ungoogled chromium: 1250.35
-firefox: 1862.65
-brave: 1501.29
-waterfox: 1913.86
+- ungoogled chromium: 1250.35
+- firefox: 1862.65
+- brave: 1501.29
+- waterfox: 1913.86
 
 
 
